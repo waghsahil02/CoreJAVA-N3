@@ -4,7 +4,7 @@ public class DataTypeDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+	
 		byte a = 127;
 		int b = 127;
 		long b1 = 24544646;

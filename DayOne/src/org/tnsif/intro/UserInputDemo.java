@@ -25,7 +25,7 @@ public class UserInputDemo {
 		String str = sc.nextLine();
 		
 		//System.out.println("enter value of d");
-		//double d = sc.nextDouble();
+		
 		
 		//System.out.println("value of x is"+x);
 		//System.out.println("value of y is"+y);
